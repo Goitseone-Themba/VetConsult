@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213946736552",
+    "project_id": "vetconsult-2d7c3",
+    "storage_bucket": "vetconsult-2d7c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213946736552:android:d4151feaaead0d6695479d",
+        "android_client_info": {
+          "package_name": "com.radiance.vetconsult"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ7CTuOZ00Tb1wjLLK3tjW8S9vosO2Glw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
